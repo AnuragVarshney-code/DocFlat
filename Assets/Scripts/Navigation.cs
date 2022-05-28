@@ -18,4 +18,8 @@ public class Navigation : MonoBehaviour
     {
         SceneManager.LoadScene("CameraPage");
     }
+    public void QrPage()
+    {
+        SceneManager.LoadScene("CameraPage 1");
+    }
 }

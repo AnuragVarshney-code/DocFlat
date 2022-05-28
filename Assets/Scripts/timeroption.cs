@@ -12,7 +12,7 @@ public class timeroption : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        buttonLessnMore.transform.position = timerbtn.transform.position;
+        //buttonLessnMore.transform.position = timerbtn.transform.position;
     }
 
     // Update is called once per frame
